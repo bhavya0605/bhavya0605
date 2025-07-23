@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBmbmdxODhjd2FoMDhzMm11YWk1emhmZTBqMWg5cTFjMXlndTNreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 <h1 align="center">Hi 👋, I'm Bhavya Shah</h1>
 <h3 align="center">A passionate developer from India who is interested in the field of Artificial Intelligence and Machine Learning.</h3>
