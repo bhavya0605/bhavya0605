@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBmbmdxODhjd2FoMDhzMm11YWk1emhmZTBqMWg5cTFjMXlndTNreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
+  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0xcmE5cTFwY2d3MTh6MWJzbmxmYTFlbzIwbThpNDR0czdtNG04aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
 </div>
 <h1 align="center">Hello there! I'm Bhavya</h1>
 <h3 align="center">A developer who is interested in the field of Artificial Intelligence and Machine Learning.</h3>
