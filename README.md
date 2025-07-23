@@ -1,7 +1,7 @@
 <div align="center">
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBmbmdxODhjd2FoMDhzMm11YWk1emhmZTBqMWg5cTFjMXlndTNreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
 </div>
-<h1 align="center">Hi 👋, I'm Bhavya Shah</h1>
+<h1 align="center">Hello there!, I'm Bhavya Shah</h1>
 <h3 align="center">A passionate developer from India who is interested in the field of Artificial Intelligence and Machine Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavya0605&label=Profile%20views&color=0e75b6&style=flat" alt="bhavya0605" /> </p>
